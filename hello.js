@@ -1,12 +1,11 @@
-function handleRequest(request) {
-
+function handleRequest(_request) {
   return new Response(
     `<body
       align="center"
-      style="font-family: Avenir, Helvetica, Arial, sans-serif; font-size: 15rem; height: 100%;"
+      style="font-family: Avenir, Helvetica, Arial, sans-serif; font-size: 15rem; height: 100vh;"
     >
       <h1>
-        <a href="https://twitter.com/ivgtr target="_blank" rel="noopener noreferrer"">
+        <a href="https://twitter.com/ivgtr" target="_blank" rel="noopener noreferrer">
           iVgtr
         </a>
       </h1>
