@@ -1,0 +1,11 @@
+{
+  "name": "deno-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "deno fmt ."
+  },
+  "repository": "git@github.com:sumikkosoft/deno-dev.git",
+  "author": "ivgtr <gear.1112t.o@gmail.com>",
+  "license": "MIT"
+}
