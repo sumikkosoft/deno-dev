@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "dev": " deployctl run --watch ./hello.js",
     "lint": "deno fmt ."
   },
   "repository": "git@github.com:sumikkosoft/deno-dev.git",
